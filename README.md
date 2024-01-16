@@ -13,3 +13,6 @@ git add .
 git commit -m" "
 git remote add origin " "
 git push origin main
+git add *.html
+git add -A
+git restore --staged <filename>
