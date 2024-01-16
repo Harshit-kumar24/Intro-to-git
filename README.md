@@ -8,6 +8,7 @@
 
 git init 
 git status
+git log
 git add .
 git commit -m" "
 git remote add origin " "
